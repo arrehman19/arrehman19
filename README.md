@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman Irfan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrehman19&label=Profile%20views&color=0e75b6&style=flat" alt="arrehman19" /> </p>
+<p align="left"> <img src="https://github.com/arehmanweb" alt="arrehman19" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/account" alt="arrehman19" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/account" alt="arehmanweb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
